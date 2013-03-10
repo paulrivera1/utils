@@ -1,4 +1,4 @@
-foobarbazblahblah
+1afoobarbazblahblah
 
 name := "MyApp"
 
