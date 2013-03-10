@@ -17,3 +17,4 @@ resolvers ++= Seq(
     "cloudera" at "https://repository.cloudera.com/content/repositories/releases",
     "sonatype snapshots" at "http://oss.sonatype.org/content/repositories/snapshots")
 
+somechangebyuser2
