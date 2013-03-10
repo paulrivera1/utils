@@ -1,3 +1,5 @@
+somechangebyuser1
+
 foobarbazblahblah
 
 name := "MyApp"
